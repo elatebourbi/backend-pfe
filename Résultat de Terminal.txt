@@ -1,0 +1,48 @@
+Last login: Fri May 17 19:19:49 on ttys021
+/dev/fd/12:18: command not found: compdef
+elatebourbi@MacBook-Pro-de-Ela ~ % cd zshrc
+cd: no such file or directory: zshrc
+elatebourbi@MacBook-Pro-de-Ela ~ % zshrc
+zsh: command not found: zshrc
+elatebourbi@MacBook-Pro-de-Ela ~ % nano ~/.zshrc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09               BROWSER    Dir: /Users/elatebourbi                 
+
+.                       (SELECT dir)  ..                      (parent dir)
+Applications                   (dir)  Desktop                        (dir)
+Documents                      (dir)  Downloads                      (dir)
+eclipse                        (dir)  eclipse-workspace              (dir)
+FOODMINE-REACT-JS-MASTER       (dir)  IdeaProjects                   (dir)
+Library                        (dir)  Movies                         (dir)
+Music                          (dir)  myapp                          (dir)
+myapp1                         (dir)  pfe                            (dir)
+Pictures                       (dir)  Public                         (dir)
+roxy                           (dir)  salma                          (dir)
+Virtual Machines.localized     (dir)  VirtualBox VMs                 (dir)
+angular                          0 B  boom                             0 B
+hellojs                         24 B  node-pfe                         0 B
+
+
+
+
+
+
+                            [ Unknown Command: ^X ]                             
+? Get Help   E Exit Brwsr              -   Prev Pg  D Delete     C Copy       
+             S [Select]   W Where is   Spc Next Pg  R Rename     A Add        
